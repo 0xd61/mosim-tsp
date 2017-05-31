@@ -3,8 +3,8 @@
 
 ## Gliederung
 
-	* Punkt 1
-	* Punkt 2
+* Punkt 1
+* Punkt 2
 
 ---
 
